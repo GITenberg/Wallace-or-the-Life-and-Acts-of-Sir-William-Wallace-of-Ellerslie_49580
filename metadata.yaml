@@ -1,4 +1,5 @@
 _repo: Wallace-or-the-Life-and-Acts-of-Sir-William-Wallace-of-Ellerslie_49580
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -7,12 +8,17 @@ contributor:
       deathdate: 1838
       gutenberg_agent_id: '40673'
       url: http://www.gutenberg.org/2009/agents/40673
+covers:
+- cover_type: archival
+  image_path: 49580-h/images/cover.jpg
 creator:
   author:
     agent_name: Minstrel, Henry the
     gutenberg_agent_id: '45423'
     url: http://www.gutenberg.org/2009/agents/45423
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49580#Wallace-or-the-Life-and-Acts-of-Sir-William-Wallace-of-Ellerslie
 gutenberg_issued: '2015-08-02'
 gutenberg_type: Text
 identifiers:
